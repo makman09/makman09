@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @makman09
-- 👀 I’m interested in developing product market fit for decentralized applications powered by aritifical intelligence 
+- 👀 I’m interested in developing product market fit for decentralized applications powered by deep reinforcement learning 
 - 🌱 I’m currently learning how to architect deep learnign network systems that can accomplish multiple tasks in multiple domains
 - 💞️ I’m looking to collaborate on 
   - harvesting data through spider web crawlers
